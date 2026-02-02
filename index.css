@@ -554,13 +554,13 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("file:///C:/Users/Tommy%20Nguyen/dist/Isometric%20Study%202.png");
+    url("Isometric\ Study\ 2.png");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("file:///C:/Users/Tommy%20Nguyen/dist/Isometric%20Study%202.png") center center fixed;
+    url("Isometric\ Study\ 2.png") center center fixed;
   --height: 50vh;
 }
 
@@ -591,6 +591,6 @@ body {
         rgba(10, 10, 10, 1),
         rgba(10, 10, 10, 0)
       ),
-      url("file:///C:/Users/Tommy%20Nguyen/dist/Isometric%20Study%202.png") !important;
+      url("Isometric\ Study\ 2.png") !important;
   }
 }
