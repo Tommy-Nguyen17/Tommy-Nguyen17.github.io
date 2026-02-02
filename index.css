@@ -554,13 +554,13 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("Isometric Study 2.png");
+    url("IsometricStudy2.png");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("Isometric Study 2.png") center center fixed;
+    url("IsometricStudy2.png") center center fixed;
   --height: 50vh;
 }
 
@@ -591,6 +591,6 @@ body {
         rgba(10, 10, 10, 1),
         rgba(10, 10, 10, 0)
       ),
-      url("Isometric Study 2.png") !important;
+      url("IsometricStudy2.png") !important;
   }
 }
